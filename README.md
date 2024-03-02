@@ -38,10 +38,10 @@ while True:
 ```
 ## OUTPUT:
 ### CLIENT:
-<img width="675" alt="client py" src="https://github.com/Ganesh23013987/2a_Stop_and_Wait_Protocol/assets/147473768/0fdcd483-7901-4af8-b79b-9f3622a9db5e">
+<img width="674" alt="stop   wait client" src="https://github.com/Ganesh23013987/2a_Stop_and_Wait_Protocol/assets/147473768/91e9da24-94d4-4931-b085-f583a8ce7cfc">
 
 ### SERVER:
-<img width="676" alt="server py" src="https://github.com/Ganesh23013987/2a_Stop_and_Wait_Protocol/assets/147473768/fe3d6236-ac41-4709-8bb3-1c7e81f821fc">
+<img width="677" alt="stop   wait server" src="https://github.com/Ganesh23013987/2a_Stop_and_Wait_Protocol/assets/147473768/947c7b7f-de7d-48ad-b138-b7a5a901a28b">
 
 
 ## RESULT
